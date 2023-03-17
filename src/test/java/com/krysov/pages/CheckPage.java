@@ -25,7 +25,7 @@ public class CheckPage {
         });
     }
     public void checkQuestionsQA(String questionsText, String questionsText2) {
-        step("Проверка названия вакансии", () -> {
+        step("Проверка поля с вопросами", () -> {
             questionsQA.shouldHave(text(questionsText));
             questionsQA.shouldHave(text(questionsText2));
         });
