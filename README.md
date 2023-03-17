@@ -102,7 +102,7 @@
 <img title="Allure Overview Dashboard" src="images/screens/graphs1.png">
 </p>
 
-## <img src="images/logo/Telegram.svg" width="25" height="25"  alt="Allure"/></a> Интеграция уведомлений с <a target="_blank" href="https://t.me/autotestsKrysov/30">Telegram</a>
+## <img src="images/logo/Telegram.svg" width="25" height="25"  alt="Allure"/></a> Интеграция уведомлений с <a target="_blank" href="https://t.me/autotestsKrysov/43">Telegram</a>
 
 <p align="center">
 <img title="Allure Overview Dashboard" src="images/screens/tel1.png" >
