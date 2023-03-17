@@ -53,7 +53,7 @@
 
 ## <img src="images/logo/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Jenkins <a target="_blank" href="https://jenkins.autotests.cloud/job/08-alexlis-web/"> job </a>
 <p align="center">
-<a href="https://jenkins.autotests.cloud/job/krysov_Digital_Design_Tests/"><img src="images/screens/jenkins.png" alt="Jenkins"/></a>
+<a href="https://jenkins.autotests.cloud/job/krysov_Digital_Design_Tests/"><img src="images/screens/job2.png" alt="Jenkins"/></a>
 </p>
 
 
