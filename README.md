@@ -89,31 +89,31 @@
 
 ## ⛅: Overview
 <p align="center">
-<img title="Allure Overview Dashboard" src="images/screens/overview.png">
+<img title="Allure Overview Dashboard" src="images/screens/overview1.png">
 </p>
 
 ## 🧪: Suites
 <p align="center">
-<img title="Allure Overview Dashboard" src="images/screens/Suites.png">
+<img title="Allure Overview Dashboard" src="images/screens/Suites1.png">
 </p>
 
 ## 💹: Graphs
 <p align="center">
-<img title="Allure Overview Dashboard" src="images/screens/graphs.png">
+<img title="Allure Overview Dashboard" src="images/screens/graphs1.png">
 </p>
 
 ## <img src="images/logo/Telegram.svg" width="25" height="25"  alt="Allure"/></a> Интеграция уведомлений с <a target="_blank" href="https://t.me/autotestsKrysov/30">Telegram</a>
 
 <p align="center">
-<img title="Allure Overview Dashboard" src="images/screens/telegram.png" >
+<img title="Allure Overview Dashboard" src="images/screens/tel1.png" >
 </p>
 
-## <img src="images/logo/Allure_TO.svg" width="25" height="25"  alt="Allure"/></a> Интеграция с <a target="_blank" href="https://allure.autotests.cloud/project/1955/test-cases?treeId=0">Allure TestOps</a>
-<img title="TestOps" src="images/screens/TestOps.png" >
+## <img src="images/logo/Allure_TO.svg" width="25" height="25"  alt="Allure"/></a> Интеграция с <a target="_blank" href="https://allure.autotests.cloud/project/2041/test-cases?treeId=0">Allure TestOps</a>
+<img title="TestOps" src="images/screens/to1.png" >
 
 
-## <img src="images/logo/Jira.svg" width="25" height="25"  alt="Allure"/></a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/projects/AUTO/issues/AUTO-1276?filter=allopenissues">Jira</a>
-<img title="Jira" src="images/screens/Jira.png" >
+## <img src="images/logo/Jira.svg" width="25" height="25"  alt="Allure"/></a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-601">Jira</a>
+<img title="Jira" src="images/screens/jira1.png" >
 
 
 
@@ -121,4 +121,4 @@
 
 
 ## <img src="images/logo/Selenoid.svg" width="25" height="25" alt="Allure"/></a> Запись видео из Selenoid при прохождении автотеста:
-![Test](images/gif/video.gif)
+![Test](images/gif/video1.gif)
