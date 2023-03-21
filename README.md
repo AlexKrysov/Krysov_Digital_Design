@@ -1,5 +1,5 @@
 # Проект по автоматизации сайта  [Digital Design](https://digdes.ru/)
-**Официальный интернет магазин 34 PLAY**
+
 &nbsp;
 ![Ведущий разработчик ПО Digital Design](images/screens/digdes.png)
 &nbsp;
